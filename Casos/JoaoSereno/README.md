@@ -153,7 +153,7 @@ Based on this keywords we will search on the following databases:
 * IEEE Digital Library
 * ACM Digital Library.
 
-The articles idenfitied can be placed on a resume board with the article number in the different datab bases.
+The articles idenfitied can be placed on a resume board with the article number in the different databases.
 
 The research is made by using the title, abstract, and keywords, defining a research interval within the last 5-10 years to ensure that the analysis includes up-to-date technologies and trends in IoT energy management, defining the exclusion criteria (Books, Patents, Master Teases and Articles that are not in English).
 
