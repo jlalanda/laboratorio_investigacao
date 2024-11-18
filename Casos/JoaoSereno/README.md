@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/5a6d8402-48a7-4f04-976b-b618fde5929b)# Laboratório de Investigação
+# Laboratório de Investigação
 
 Investigar consiste em identificar problemas, colocar questões, refletir, admitir erros, aprender novas coisas e tentar encontrar soluções utilizando um método científico, o que pode ser recompensador:
 
