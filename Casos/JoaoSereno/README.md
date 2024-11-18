@@ -96,34 +96,10 @@ Based on this investigation the following questions were formulated:
 
 * Efficiency
   * RQ1: How effectively does the proposed protocol balance energy loads across devices in managed IoT networks?
-  * RQ2: What impact does the protocol have on overall energy consumption compared to unmanaged IoT networks?
-* Scalability
-  * RQ3: How well does the protocol handle an increasing number of devices without degradation in performance or efficiency?
-  * RQ4: Are there limits to the network size and complexity within which the protocol can operate efficiently?
-* Reliability
-  * RQ5: Can the protocol maintain stable network operations under varying load conditions and fluctuating energy availability?
-  * RQ6: How does the protocol handle unexpected power demands or failures within the network?
-* Adaptability
-  * RQ7: How quickly and accurately does the protocol respond to real-time changes in energy demand and environmental conditions?
-  * RQ8: Can the protocol dynamically adjust to both short-term (real-time) and long-term (scheduled) energy needs of devices?
-* Priority Management
-  * RQ9: How effective is the protocol in allocating resources to high-priority devices without compromising the needs of lower-priority ones?
-  * RQ10: What are the most suitable criteria for determining device priority within the network?
-* Security and Integrity
-  * RQ11: How secure is the protocol’s communication framework in terms of protecting data exchanged between IoT devices and the central load balancer?
-  * RQ12: What mechanisms are in place to prevent unauthorized access or manipulation of energy load settings?
-* Resource Optimization
-  * RQ13: Does the protocol lead to observable cost savings in energy consumption over time?
-  * RQ14: How does the protocol influence device lifespan by reducing energy spikes and preventing overloads?
-* Comparative Performance
-  * RQ15: How does the proposed protocol compare to other existing energy management protocols or algorithms in terms of efficiency, reliability, and scalability?
-  * RQ16: What are the benefits and potential drawbacks of a centralized load balancer in IoT networks compared to a decentralized approach?
-* Environmental Impact
-  * RQ17: How does the protocol contribute to sustainable energy practices within IoT networks?
-  * RQ18: Does the protocol help in reducing carbon footprint or other environmental impacts by minimizing unnecessary power usage?
-*User and Device Feedback
-  * RQ19: How do end-users perceive the performance of IoT devices under the proposed protocol’s management?
-  * RQ20: Is there evidence of improved device performance or user satisfaction due to more stable energy provision?
+  * RQ2: Can the protocol maintain stable network operations under varying load conditions and fluctuating energy availability?
+  * RQ3: Is there evidence of improved device performance or user satisfaction due to more stable energy provision?
+  * RQ4: How does the protocol contribute to sustainable energy practices within IoT networks?
+  * RQ5: What are the benefits and potential drawbacks of a centralized load balancer in IoT networks compared to a decentralized approach?
 
 The authors used the Petticrew and Roberts (CITACAO) Population, Intervention, Comparison, Outcome and Context (PICOC).
 
