@@ -94,12 +94,11 @@ network
 
 Based on this investigation the following questions were formulated:
 
-* Efficiency
-  * RQ1: How effectively does the proposed protocol balance energy loads across devices in managed IoT networks?
-  * RQ2: Can the protocol maintain stable network operations under varying load conditions and fluctuating energy availability?
-  * RQ3: Is there evidence of improved device performance or user satisfaction due to more stable energy provision?
-  * RQ4: How does the protocol contribute to sustainable energy practices within IoT networks?
-  * RQ5: What are the benefits and potential drawbacks of a centralized load balancer in IoT networks compared to a decentralized approach?
+* RQ1: How effectively does the proposed protocol balance energy loads across devices in managed IoT networks?
+* RQ2: Can the protocol maintain stable network operations under varying load conditions and fluctuating energy availability?
+* RQ3: Is there evidence of improved device performance or user satisfaction due to more stable energy provision?
+* RQ4: How does the protocol contribute to sustainable energy practices within IoT networks?
+* RQ5: What are the benefits and potential drawbacks of a centralized load balancer in IoT networks compared to a decentralized approach?
 
 The authors used the Petticrew and Roberts (CITACAO) Population, Intervention, Comparison, Outcome and Context (PICOC).
 
