@@ -124,7 +124,7 @@ Energy load balancing, IoT energy management, dynamic power allocation, centrali
 
 Based on this keywords we will search on the following databases:
 * SpringerLink, 
-* Science@Direct, 
+* [Science@Direct](https://www.sciencedirect.com/search?qs=Energy%20load%20balancing%2C%20IoT%20energy%20management%2C%20dynamic%20power%20allocation%2C%20centralized%20vs.%20decentralized%20load%20balancing%2C%20priority-based%20energy%20distribution%2Csmart%20energy%20protocols%2Cmanaged%20IoT%20networks%2Cenergy%20optimization%20in%20IoT.&years=2025%2C2024%2C2023%2C2022%2C2021%2C2020&show=100&subjectAreas=1700%2C2200%2C2100%2C1800&lastSelectedFacet=articleTypes&articleTypes=REV%2CFLA)
 * IEEE Digital Library
 * ACM Digital Library.
 
