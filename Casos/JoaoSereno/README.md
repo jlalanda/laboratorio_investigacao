@@ -1,4 +1,4 @@
-# Laboratório de Investigação
+![image](https://github.com/user-attachments/assets/5a6d8402-48a7-4f04-976b-b618fde5929b)# Laboratório de Investigação
 
 Investigar consiste em identificar problemas, colocar questões, refletir, admitir erros, aprender novas coisas e tentar encontrar soluções utilizando um método científico, o que pode ser recompensador:
 
@@ -111,16 +111,16 @@ The authors used the Petticrew and Roberts (CITACAO) Population, Intervention, C
 Based no PICOC following the approached recomended by Kitchmen and Charters (REF) the search criteria was the following: 
 
 Keywords:
-"Energy load balancing," "IoT energy management," "dynamic power allocation," "centralized vs. decentralized load balancing," "priority-based energy distribution," "smart energy protocols," "managed IoT networks," "energy optimization in IoT."
+Energy load balancing, IoT energy management, dynamic power allocation, centralized vs. decentralized load balancing, priority-based energy distribution, smart energy protocols, managed IoT networks, energy optimization in IoT.
 
 * Inclusion Criteria:
-  * Peer-reviewed articles, 
-  * technical reports, or industry publications on energy management and load balancing in IoT.
-  * Studies that specifically address energy efficiency and load management within IoT network protocols.
+  * Review articles (37)
+  * Research articles (35)
 
 * Exclusion Criteria:
-  * General articles on IoT without focus on energy management or load balancing.
-  * Studies that do not address managed IoT networks or are focused solely on theoretical models without practical application.
+  * Book chapters (7)
+  * Conference abstracts (8)
+  * Mini reviews (8)
 
 Based on this keywords we will search on the following databases:
 * SpringerLink, 
